@@ -4,6 +4,7 @@ var
 sf,b,r,sm,sb,st:real
 
 Inicio
+escreval("calculo do salario")
 escreval("entre com o salario fixo")
 leia(sf)
 escreval("entre com o percentual de reajuste")
